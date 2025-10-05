@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 import os
 import re
 
-output_folder = r"C:\Users\jessi\OneDrive\Área de Trabalho\NASA_Spaceapps25\QRCODES"
+output_folder = r"output_folder_path"
 
 def sanitize_filename(name):
     """Remove invalid filename characters for Windows."""
@@ -114,3 +114,4 @@ if __name__ == "__main__":
     }
 
     generate_qrcodes(data, output_dir=output_folder, size=400, margin=10)
+
