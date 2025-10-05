@@ -1,6 +1,8 @@
 # Resource Rush
 
-![image](https://assets.spaceappschallenge.org/media/images/WhatsApp_Image_2025-10-04_at_14.55.2e16d0ba.fill-300x250.jpg)
+<p align="center">
+    <img src="https://assets.spaceappschallenge.org/media/images/WhatsApp_Image_2025-10-04_at_14.55.2e16d0ba.fill-300x250.jpg" alt="image">
+</p>
 
 Resource Rush is a cooperative and educational card game that combines strategy, discussion, and real-world science. Players team up as farmer-scientists to tackle agricultural challenges using NASA's innovative technologies, fostering learning about sustainable agriculture in a fun, engaging way.
 
